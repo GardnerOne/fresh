@@ -7,7 +7,7 @@ Classes to change the feel of bulma buttons
 .button {
     cursor: pointer;
     transition: all 0.5s;
-    
+
     &:focus, &:active {
         outline: none;
     }
@@ -79,11 +79,11 @@ Classes to change the feel of bulma buttons
         outline: none;
         border-color: $secondary;
         background-color: $secondary;
-        color: $white;
+        color: $dark-grey;
         transition: all 0.5s;
 
         &:hover {
-            color: $white;
+            color: $dark-grey;
         }
 
         &.raised:hover {

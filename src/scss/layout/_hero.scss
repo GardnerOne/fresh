@@ -8,7 +8,7 @@ Hero styles
 
     .title {
         font-family: $font;
-        color: $blue-grey;
+        color: $black;
     }
 
     .title {
@@ -19,7 +19,7 @@ Hero styles
 
     .subtitle {
         &.is-muted {
-            color: $muted-grey;
+            color: $dark-grey;
         }
     }
 
